@@ -1,0 +1,280 @@
+acer
+aoc
+aopen
+asus
+allen bradley
+elo
+benq
+d-link
+ecs
+elsa
+epox
+foxconn
+gigabyte
+htc
+lite-on
+mediatek
+msi
+realtek
+silicon power
+soyo
+surya
+transcend
+tsmc
+via technologies
+blaupunkt
+bosch
+braun
+grundig
+loewe ag
+medion
+metz
+miele
+siemens
+sennheiser
+severin elektro
+technisat
+telefunken
+wortmann
+orion
+videoton
+brionvega
+brondi
+cinemeccanica
+eurotech
+olivetti s.p.a.
+radio marconi
+philips
+trust
+alba
+amstrad
+bae systems
+binatone
+bt
+bush
+dyson
+emi
+ferranti
+kef
+marconi
+morphy richards
+pace
+pure
+pye
+sinclair research
+russell hobbs
+texet
+thorn
+uniross
+vax
+alfa
+kyoto (kyoto electronics)
+lanix
+mabe
+meebox
+satmex
+zonda (zonda telecom)
+3m
+alienware
+amazon
+amd
+analog devices
+apple
+audiovox
+avaya
+averatec
+bose
+cisco systems
+crucial technology
+dell
+emachines
+emerson electric
+emerson radio
+fitbit
+gateway
+google
+hewlett-packard
+hp
+ibm
+intel
+jbl
+kingston
+koss
+magnavox
+micron technology
+microsoft
+motorola mobility
+nvidia
+packard bell
+plantronics
+polycom
+qualcomm
+rca
+sandisk
+seagate
+sgi
+sun microsystems
+texas instruments
+unisonic products corporation
+unisys
+vizio
+viewsonic
+western digital
+westinghouse electric corporation
+xerox
+zenith
+a.g. healing
+adinstruments
+amalgamated wireless (australasia)
+blackmagic design
+cea technologies
+clarinox technologies pty ltd
+codan
+crossecom
+dog & bone
+dynalite
+fairlight (company)
+powerlab
+q-mac electronics
+radio rentals
+redarc electronics
+røde microphones
+strong australia
+telectronics
+vix technology
+winradio
+aerodreams
+cicaré
+citefa
+fadea
+invap
+nostromo
+avibras
+embraer
+gradiente
+itautec
+mectron
+positivo informatica
+weg industries
+aigo (beijing huaqi information digital technology co. ltd.)
+amoi
+byd electronic
+changhong
+gionee
+haier
+hasee
+hisense
+huawei
+konka group
+meizu
+ningbo bird
+oppo
+panda
+skyworth
+tcl
+tp-link/intex
+vivo electronics
+zopo mobile
+zte
+xiaomi
+oneplus
+lenovo
+amkette
+beetel
+bharat electronics
+bpl
+celkon
+electronics corporation of india
+godrej
+hcl
+havells
+iball
+intex
+karbonn
+micromax
+myzornis
+moser baer
+notion ink
+onida
+surya roshni limited
+simmtronics
+sterlite technologies
+voltas
+videocon
+videotex
+wipro
+advan
+axioo
+cawang
+cosmos
+denpoo
+gea
+kirin
+maspion
+miyako
+polytron
+sanken
+shimizu
+wasser
+zyrex
+arj
+glx
+maadiran group
+pars home appliances
+shahab
+snowa
+tosan system company
+allied telesis – nw, oee
+alpine – ca, cn
+atari
+brother industries – cm, cp, fax, mfp, pr, oee
+buffalo (melco) – hdd, nw, oee
+canon – cm, dc, dvc, fax, mfp, pr, oee
+casio – dc, mp, oee
+clarion – ca, cn
+eclipse (fujitsu ten) ((fujitsu)) – ca, cn, oee
+eizo (eizo nanao co.) – dd
+epson – cm, fax, mfp, pr, oee
+fuji electric – mn, tes, oee
+fuji xerox – cm, mfp, oee
+fujifilm – dc
+fujitsu – ca, cn, cp, mp, nw, pc, sc, oee
+funai – dvp, dvr, tv, oee
+hitachi – cp, hdd, sc, tv, tes
+iiyama – dd
+jvc (victor company of japan, ltd) ((jvc kenwood holdings)) – as, ca, cn, dvc, dvp, dvr
+kenwood ((jvc kenwood holdings)) – as, ca, cn, wd
+konica minolta – mfp, oee
+kyocera – sc, oee
+marantz ((d&m holdings)) – as, wd, oee
+mitsubishi (mitsubishi electric) ((mitsubishi group)) – dd, dvp, dpr, tes, oee
+nec – cp, mp, nw, pc, sc
+nikon – dc, dvc
+nintendo – vg
+oki – cp, tes
+olympus – dc, dvc
+orion (orion electric co.) – dvp, dvr, tv
+panasonic – ca, cn, dc, dd, dvc, dvp, dvr, fax, mp, nw, pc, pmp, sc, tv, wd, oee
+pentax ((hoya)) – dc
+pioneer – ca, cn, wd, oee
+renesas – sc
+ricoh – dc, cp, mfp
+sansui
+sega corporation  – vg
+sharp – dd, dvc, dvp, dvr, fax, mp, pc, sc, tv
+sii (seiko instruments inc.) – oee
+snk corporation  – vg
+sony – ca, cn, dc, dd, dvc, dvp, dvr, gps, pc, pmp, sc, tv, vg, wd, oed
+tdk – sc, oee
+toshiba – cp, dd, dvc, dvp, dvr, pc, sc, tes, tv, oed
+victor (victor company of japan, ltd) ((jvc kenwood holdings)) – same as jvc
+yaesu
+cowon
+daewoo electronics
+hansol
+iriver
+lg
+pantech
+samsung
+kyocera
+hyundai
